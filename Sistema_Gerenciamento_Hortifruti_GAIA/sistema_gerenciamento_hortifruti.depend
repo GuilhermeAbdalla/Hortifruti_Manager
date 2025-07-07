@@ -1,0 +1,497 @@
+# depslib dependency file v1.0
+1729896803 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1728313298 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\hortifruti_menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1729896108 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729132554 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\menu.h
+
+1729131980 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\compracadastro.h
+
+1729820104 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729131972 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\vendas.h
+
+1729132118 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1729131976 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\financeiro.h
+
+1729132101 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729896844 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\sistema_gerenciamento_hortifruti\administrativo.h
+
+1730333188 source:d:\downloads\sistema_gerenciamento_hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 d:\downloads\sistema_gerenciamento_hortifruti\administrativo.h
+
+1729132554 d:\downloads\sistema_gerenciamento_hortifruti\menu.h
+
+1729970789 source:d:\downloads\sistema_gerenciamento_hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729132101 source:d:\downloads\sistema_gerenciamento_hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 d:\downloads\sistema_gerenciamento_hortifruti\financeiro.h
+
+1729896803 source:d:\downloads\sistema_gerenciamento_hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1729896108 source:d:\downloads\sistema_gerenciamento_hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131980 d:\downloads\sistema_gerenciamento_hortifruti\compracadastro.h
+
+1729131972 d:\downloads\sistema_gerenciamento_hortifruti\vendas.h
+
+1729132118 source:d:\downloads\sistema_gerenciamento_hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1730465058 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\administrativo.h
+
+1729132554 c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\menu.h
+
+1729970789 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729132101 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\financeiro.h
+
+1729896803 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1729896108 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131980 c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\compracadastro.h
+
+1729131972 c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\vendas.h
+
+1729132118 source:c:\users\escritorio\downloads\sistema_gerenciamento_hortifruti\sistema_gerenciamento_hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1730576862 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132554 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\menu.h
+
+1729970789 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729132101 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\financeiro.h
+
+1729896803 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1729896108 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131980 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729131972 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\vendas.h
+
+1729132118 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\2-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1730655122 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132554 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\menu.h
+
+1730675173 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compraproduto.h"
+
+1729132101 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\financeiro.h
+
+1729896803 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1730670360 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131980 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729131972 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\vendas.h
+
+1729132118 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1730670220 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\compraproduto.h
+
+1730675754 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v2-sistema-gerenciamento-hortifruti\compraproduto.c
+	<stdio.h>
+	"compracadastro.h"
+
+1730773294 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compraproduto.h"
+
+1730670220 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\compraproduto.h
+
+1730772979 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\compraproduto.c
+	<stdio.h>
+	"compracadastro.h"
+
+1729131980 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729132101 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\financeiro.h
+
+1729896803 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1729132554 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\menu.h
+
+1730670360 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131972 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\vendas.h
+
+1729131984 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132118 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	"vendas.h"
+
+1730677235 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1730677975 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v3-sistema-gerenciamento-hortifruti\cadastrofornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730677235 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 d:\downloads\v4-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132554 d:\downloads\v4-sistema-gerenciamento-hortifruti\menu.h
+
+1730677975 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\cadastrofornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730773294 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compraproduto.h"
+
+1730670220 d:\downloads\v4-sistema-gerenciamento-hortifruti\compraproduto.h
+
+1730773375 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\compraproduto.c
+	<stdio.h>
+	"compracadastro.h"
+
+1729131980 d:\downloads\v4-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729132101 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 d:\downloads\v4-sistema-gerenciamento-hortifruti\financeiro.h
+
+1729896803 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1730670360 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131972 d:\downloads\v4-sistema-gerenciamento-hortifruti\vendas.h
+
+1730939814 source:d:\downloads\v4-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+
+1730677235 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132554 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\menu.h
+
+1730677975 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\cadastrofornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1730773294 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compraproduto.h"
+
+1730670220 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compraproduto.h
+
+1730773375 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compraproduto.c
+	<stdio.h>
+	"compracadastro.h"
+
+1729131980 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729132101 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\financeiro.h
+
+1730940256 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1730670360 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131972 c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\vendas.h
+
+1731007754 source:c:\users\escritorio\downloads\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+
+1731218590 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\administrativo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"administrativo.h"
+	"menu.h"
+
+1729131984 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\administrativo.h
+
+1729132554 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\menu.h
+
+1730677975 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\cadastrofornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731256295 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compracadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compraproduto.h"
+
+1730670220 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compraproduto.h
+
+1731284128 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compraproduto.c
+	<stdio.h>
+	"compracadastro.h"
+
+1729131980 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\compracadastro.h
+
+1729132101 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\financeiro.c
+	<stdio.h>
+	"financeiro.h"
+
+1729131976 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\financeiro.h
+
+1731275783 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1730670360 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\menu.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"compracadastro.h"
+	"vendas.h"
+	"financeiro.h"
+	"administrativo.h"
+
+1729131972 c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\vendas.h
+
+1731219903 source:c:\users\abdal\onedrive\햞ea de trabalho\pim_semestre_1\software\codigos\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\v4-sistema-gerenciamento-hortifruti\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+

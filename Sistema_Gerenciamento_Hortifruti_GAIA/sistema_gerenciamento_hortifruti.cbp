@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sistema_gerenciamento_hortifruti" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sistema_gerenciamento_hortifruti" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sistema_gerenciamento_hortifruti" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="administrativo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="administrativo.h" />
+		<Unit filename="cadastrofornecedor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compracadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compracadastro.h" />
+		<Unit filename="compraproduto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compraproduto.h" />
+		<Unit filename="financeiro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="financeiro.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="vendas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vendas.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
